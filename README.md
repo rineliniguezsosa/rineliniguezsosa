@@ -2,6 +2,8 @@
 
 Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacionadas a javascript. Aqui encontraras una colección de mis proyectos personales. Mi objetivo es compartir conocimiento y aprender junto a otros desarrolladores ¡Explora mis repositorios y no dudes en ponerte en contacto si tienes alguna pregunta o sugerencia!
 
+### Acerca de mi/About me
+
 ### Habilidades/Skills
 <!--
 **rineliniguezsosa/rineliniguezsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
