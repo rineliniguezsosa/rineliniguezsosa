@@ -5,6 +5,8 @@ Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacio
 ### Acerca de mi/About me
 
 ### Habilidades/Skills
+
+![Rinel GitHub stats](https://github-readme-stats.vercel.app/api?username=rineliniguezsosa&show_icons=true&theme=tokyonight&icon_color=FFFFFF)
 <!--
 **rineliniguezsosa/rineliniguezsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
