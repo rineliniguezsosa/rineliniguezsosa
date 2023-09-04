@@ -1,4 +1,4 @@
-### ¡Bienvenido a mi perfil de GitHub! 👋
+### ¡Bienvenido a mi perfil de GitHub! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacionadas a javascript. Aqui encontraras una colección de mis proyectos personales. Mi objetivo es compartir conocimiento y aprender junto a otros desarrolladores ¡Explora mis repositorios y no dudes en ponerte en contacto si tienes alguna pregunta o sugerencia!
 
