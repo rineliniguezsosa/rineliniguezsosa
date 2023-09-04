@@ -4,6 +4,10 @@ Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacio
 
 ### Acerca de mi/About me
 
+#### Soy de mérida yucatán, méxico y me agrada trabajar con tecnologias front-end con Reactjs y backend usando Nodejs
+#### Personalmente soy una persona que le gusta apoyar a otras, me gusta explicar sobre algún tema de mi conocimiento para ayudar a alguien a entender un concepto o resolver algun problema en específico, me gusta leer, me agrada plantar, me gusta hacer el super, me gusta salir y conocer nuevo lugares y gente nueva, me gusta pasar tiempo aprendiendo cosas nuevas relacionadas al ecosistema javascript
+#### Metas personales: Convertirme en Senior 
+
 ### Habilidades/Skills
 
 <img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=amarillo"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=blue"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=blue"> <img src="https://img.shields.io/badge/reactrouter%20-F14747.svg?&style=for-the-badge&logo=reactrouter&logoColor=white">
