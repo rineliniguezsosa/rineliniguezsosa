@@ -5,7 +5,7 @@ Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacio
 ### Acerca de mi/About me
 
 ### Habilidades/Skills
-
+<img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=amarillo"/>
 ### GitHub Stats
 
 ![Rinel GitHub stats](https://github-readme-stats.vercel.app/api?username=rineliniguezsosa&show_icons=true&theme=tokyonight&icon_color=FFFFFF)
