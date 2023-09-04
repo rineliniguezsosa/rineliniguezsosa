@@ -16,6 +16,13 @@ Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rineliniguezsosa&theme=tokyonight)
 
 ### Contáctame/Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+<a href="https://www.linkedin.com/in/rinel-i%C3%B1iguez-758a68203/">
+    <img align="left" alt="Rinel | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="rineliniguezsosa@gmail.com">
+    <img align="left" alt="Rinel | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
 <!--
 **rineliniguezsosa/rineliniguezsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
