@@ -13,6 +13,8 @@ Soy Rinel un apasionado desarrollador web con experiencia en tecnologias relacio
 ![Rinel GitHub stats](https://github-readme-stats.vercel.app/api?username=rineliniguezsosa&show_icons=true&theme=tokyonight&icon_color=FFFFFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rineliniguezsosa&theme=tokyonight)
+
+### Contáctame/Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <!--
 **rineliniguezsosa/rineliniguezsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
