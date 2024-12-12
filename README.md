@@ -20,7 +20,7 @@ I'm Rinel, a passionate web developer with experience in javascript related tech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rineliniguezsosa&theme=tokyonight)
 
-### Contáctame/Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/rinel-i%C3%B1iguez-758a68203/">
     <img align="left" alt="Rinel | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
