@@ -5,7 +5,7 @@ I'm Rinel, a passionate web developer with experience in javascript related tech
 ### About me
 
 #### I am from Merida, Yucatan, Mexico and I like to work with front-end technologies with Reactjs and backend using Nodejs
-#### Personalmente soy una persona que le gusta apoyar a otras, me gusta explicar sobre algún tema de mi conocimiento para ayudar a alguien a entender un concepto o resolver algun problema en específico, me gusta leer, me agrada hacer ejercicío, me agrada plantar, me gusta hacer el super, me gusta salir y conocer nuevo lugares y gente nueva, me gusta pasar tiempo aprendiendo cosas nuevas relacionadas al ecosistema javascript
+#### Personally, I am a person who likes to support others, I like to explain about a topic of my knowledge to help someone understand a concept or solve a specific problem, I like to read, I like to exercise, I like to plant, I like to go shopping, I like to go out and meet new places and new people, I like to spend time learning new things related to the javascript ecosystem.
 #### Metas personales: Convertirme en Senior 
 
 ### Habilidades/Skills
